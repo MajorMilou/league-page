@@ -1,18 +1,15 @@
 /*   STEP 1   */
-export const leagueID = "your_league_id"; // your league ID
-export const leagueName = "your_league_name"; // your league name
-export const dues = 100; // (optional) used in template constitution page
-export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
+export const leagueID = 989903632843751424; // your league ID
+export const leagueName = "League of (French) Legends"; // your league name
+export const dues = 0; // (optional) used in template constitution page
+export const dynasty = false; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>La "League of (French) Legends" est bien plus qu'une simple ligue de fantasy football. C'est un rassemblement de créateurs de contenu et de podcasters au sein de la passionnante communauté NFL française. Ici, les esprits brillants se mesurent en utilisant leurs connaissances du football américain pour constituer des équipes virtuelles gagnantes.</p>
+  <p>Vous pouvez suivre de près l'action de la ligue sur notre mini-site dédié. Vous y trouverez les derniers résultats, les classements en temps réel, les Power Rankings, et même l'historique complet de la ligue. Plongez dans les drafts passées, explorez les années précédentes et revivez chaque moment mémorable.</p>
+  <p>La "League of (French) Legends" est le lieu où la passion pour la NFL rencontre l'ingéniosité stratégique, et notre mini-site est votre billet pour accéder à toutes les informations et statistiques dont vous avez besoin pour suivre cette aventure captivante. Rejoignez-nous pour une expérience fantasy football unique en son genre ! 🏈📊 #FantasyFootball #NFL #FrenchLegendsLeague</p>
 `;
 
 /*   STEP 3   */
