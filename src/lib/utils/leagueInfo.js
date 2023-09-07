@@ -1,5 +1,5 @@
 /*   STEP 1   */
-export const leagueID = 989903632843751424; // your league ID
+export const leagueID = "989903632843751424"; // your league ID
 export const leagueName = "League of (French) Legends"; // your league name
 export const dues = 0; // (optional) used in template constitution page
 export const dynasty = false; // true for dynasty leagues, false for redraft and keeper
