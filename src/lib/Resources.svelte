@@ -5,17 +5,17 @@ import { dynasty } from './utils/helper';
     const today = new Date();
     const resources = [
         {
-            name: "FTN Fantasy",
-            url: "https://www.ftnfantasy.com/nfl",
+            name: "FantasyBallers FR",
+            url: "https://linktr.ee/fantasyballersfr",
             icon: "insights",
-            premium: true,
+            premium: false,
             separator: true,
         },
         {
-            name: "The Fantasy Footballers",
-            url: "https://www.thefantasyfootballers.com/",
+            name: "Le Podcast FantasyBallers",
+            url: "https://tr.ee/cnjQasBN_o",
             icon: "podcasts",
-            premium: true,
+            premium: false,
             separator: true,
         },
         {
